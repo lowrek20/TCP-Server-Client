@@ -97,4 +97,4 @@ For any issues or questions, please open an issue on this repository or contact 
 This project is intended for educational purposes only. Unauthorized keystroke logging is illegal and unethical. Use this tool responsibly.
 ```
 
-This README should help anyone understand your project and get it running quickly.
+
