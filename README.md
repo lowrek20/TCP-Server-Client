@@ -22,7 +22,7 @@ This project implements a simple TCP server and client in Python 3. The client l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lowrek/TCP-Server-Client.git
+   git clone https://github.com/lowrek20/TCP-Server-Client.git
    cd tcp-keystroke-logger
    ```
 
