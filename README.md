@@ -1,7 +1,7 @@
-Here's a README.md file tailored for your TCP server and client project in Python 3:
+
 
 ```markdown
-# Python TCP Keystroke Logger
+# Python TCP Server-Client with a keylogger
 
 This project implements a simple TCP server and client in Python 3. The client listens for keyboard events and sends each keystroke to the server, which logs the received data into a file. This setup can be used for basic remote keystroke logging for educational purposes.
 
